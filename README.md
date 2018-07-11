@@ -1,2 +1,3 @@
 # hello-world
-testing
+
+New coding student just poking around the git system. 
